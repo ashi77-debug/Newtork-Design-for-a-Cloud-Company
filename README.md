@@ -121,7 +121,7 @@ Download and install Cisco Packet Tracer (Version 8.2 or higher recommended).
 
 Clone this repository to your local machine:
 
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/ashi77-debug/Newtork-Design-for-a-Cloud-Company/blob/main/project%202%20Cloud%20infrastructure.pkt
 
 
 Open the .pkt topology file inside Cisco Packet Tracer.
