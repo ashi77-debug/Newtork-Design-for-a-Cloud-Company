@@ -7,25 +7,25 @@ A complete, high-availability enterprise network system designed and implemented
 
 🛠️ Technologies & Protocols
 
-Cisco Packet Tracer
+.Cisco Packet Tracer
 
-Cisco IOS CLI
+.Cisco IOS CLI
 
-OSPF (Open Shortest Path First)
+.OSPF (Open Shortest Path First)
 
-HSRP (Hot Standby Router Protocol)
+.HSRP (Hot Standby Router Protocol)
 
-LACP (EtherChannel)
+.LACP (EtherChannel)
 
-STP (PortFast & BPDU Guard)
+.STP (PortFast & BPDU Guard)
 
-Cisco ASA 5506-X Firewalls
+.Cisco ASA 5506-X Firewalls
 
-NAT / PAT & ACLs
+.NAT / PAT & ACLs
 
-WLC (Wireless LAN Controller)
+.WLC (Wireless LAN Controller)
 
-VoIP (Cisco IP Telephony)
+.VoIP (Cisco IP Telephony)
 
 🦄 Features
 
