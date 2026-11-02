@@ -45,19 +45,19 @@ IP Telephony (VoIP): Dedicated Cisco 2811 Voice Gateways provide automated exten
 
 ⌨️ Useful CLI Verification Commands:
 
-Speed up your network testing and troubleshooting with these Cisco IOS commands:
+.Speed up your network testing and troubleshooting with these Cisco IOS commands:
 
-Verify VLANs & Ports: show vlan brief and show interfaces trunk
+.Verify VLANs & Ports: show vlan brief and show interfaces trunk
 
-Check EtherChannel Status: show etherchannel summary
+.Check EtherChannel Status: show etherchannel summary
 
-Verify HSRP Failover: show standby brief
+.Verify HSRP Failover: show standby brief
 
-Inspect Routing Table & OSPF: show ip route and show ip ospf neighbor
+.Inspect Routing Table & OSPF: show ip route and show ip ospf neighbor
 
-Check Firewall NAT & Security Zones: show run nat and show nameif
+.Check Firewall NAT & Security Zones: show run nat and show nameif
 
-Test Remote Management: ssh -l admin <ip-address>
+.Test Remote Management: ssh -l admin <ip-address>
 
 👩🏽‍🍳 The Process
 
