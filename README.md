@@ -117,15 +117,15 @@ Set up an SNMP and Syslog monitoring server to log real-time device events and l
 
 To explore and test the network simulation locally, follow these steps:
 
-Download and install Cisco Packet Tracer (Version 8.2 or higher recommended).
+1.Download and install Cisco Packet Tracer (Version 8.2 or higher recommended).
 
-Clone this repository to your local machine:
+2.Clone this repository to your local machine:
 
 https://github.com/ashi77-debug/Newtork-Design-for-a-Cloud-Company/blob/main/project%202%20Cloud%20infrastructure.pkt
 
 
-Open the .pkt topology file inside Cisco Packet Tracer.
+3.Open the .pkt topology file inside Cisco Packet Tracer.
 
-Wait ~30 seconds (or press Alt + D in Realtime mode) for STP, EtherChannel, and OSPF adjacencies to converge.
+4.Wait ~30 seconds (or press Alt + D in Realtime mode) for STP, EtherChannel, and OSPF adjacencies to converge.
 
-Open any PC's Command Prompt or Web Browser to test end-to-end connectivity, SSH access, and DMZ web server resolution.
+5.Open any PC's Command Prompt or Web Browser to test end-to-end connectivity, SSH access, and DMZ web server resolution.
