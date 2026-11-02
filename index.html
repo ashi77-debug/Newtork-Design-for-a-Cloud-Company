@@ -5,17 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cisco Network Architecture</title>
   <style>
-    body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; }
-    img { max-width: 100%; border: 1px solid #ccc; border-radius: 8px; }
-    .btn { display: inline-block; padding: 10px 18px; background: #0070f3; color: white; text-decoration: none; border-radius: 6px; }
+    body { 
+      font-family: sans-serif; 
+      max-width: 800px; 
+      margin: 40px auto; 
+      padding: 0 20px; 
+      line-height: 1.6;
+      color: #333;
+    }
+    img { 
+      max-width: 100%; 
+      height: auto;
+      border: 1px solid #ccc; 
+      border-radius: 8px; 
+      margin-top: 10px;
+      margin-bottom: 25px;
+      display: block;
+    }
+    .btn { 
+      display: inline-block; 
+      padding: 10px 18px; 
+      background: #0070f3; 
+      color: white; 
+      text-decoration: none; 
+      border-radius: 6px; 
+      font-weight: bold;
+    }
+    .btn:hover {
+      background: #005bb5;
+    }
+    h2 {
+      margin-top: 30px;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 8px;
+    }
   </style>
 </head>
 <body>
   <h1>Network Topology & Configuration</h1>
   <p>Description of VLANs, routing protocols (e.g., OSPF/EIGRP), and NAT configured in Packet Tracer.</p>
+  
+  <h2>Network Topology Diagram</h2>
   <img src="topology.png" alt="Network Topology Diagram" />
-  <p><a class="btn" href="network_design.pkt" download>Download Packet Tracer (.pkt) File</a></p>
+
+  <h2>ISP Router Configuration</h2>
+  <p>CLI output showing the WAN interface IP settings, default routing, and NAT configuration on the ISP edge router.</p>
+  <img src="router-isp-config.png" alt="Router ISP Configuration CLI" />
+
+  <p>
+    <a class="btn" href="network_design.pkt" download>Download Packet Tracer (.pkt) File</a>
+  </p>
 </body>
 </html>
-
-
