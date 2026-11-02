@@ -129,3 +129,17 @@ https://github.com/ashi77-debug/Newtork-Design-for-a-Cloud-Company/blob/main/pro
 4.Wait ~30 seconds (or press Alt + D in Realtime mode) for STP, EtherChannel, and OSPF adjacencies to converge.
 
 5.Open any PC's Command Prompt or Web Browser to test end-to-end connectivity, SSH access, and DMZ web server resolution.
+
+
+Video Format
+
+
+
+https://github.com/user-attachments/assets/bc6bb3bc-af42-4292-9265-b9c46e99f868
+
+
+
+
+
+
+
